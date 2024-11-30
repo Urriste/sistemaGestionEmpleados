@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\sistemaGestionEmpleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|C:\\Users\\Lukeu\\OneDrive\\Escritorio\\sistemaGestionEmpleados\\sistemagestionempleados\\frmbuscarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|solutionrelative:sistemagestionempleados\\frmbuscarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|C:\\Users\\Lukeu\\OneDrive\\Escritorio\\sistemaGestionEmpleados\\sistemagestionempleados\\frmbuscarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|solutionrelative:sistemagestionempleados\\frmbuscarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBuscarEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmBuscarEmpleado.cs",
+              "RelativeDocumentMoniker": "sistemaGestionEmpleados\\frmBuscarEmpleado.cs",
+              "ToolTip": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmBuscarEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sistemaGestionEmpleados\\frmBuscarEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:31:42.049Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBuscarEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmBuscarEmpleado.cs",
+              "RelativeDocumentMoniker": "sistemaGestionEmpleados\\frmBuscarEmpleado.cs",
+              "ToolTip": "C:\\Users\\Lukeu\\OneDrive\\Escritorio\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmBuscarEmpleado.cs",
+              "RelativeToolTip": "sistemaGestionEmpleados\\frmBuscarEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:34:10.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

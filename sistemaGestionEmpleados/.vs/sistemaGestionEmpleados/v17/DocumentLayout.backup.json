@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|c:\\users\\icbc\\desktop\\facu\\laboratorio de programaci\u00F3n 1\\sistemagestionempleados\\sistemagestionempleados\\frmgestionempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|solutionrelative:sistemagestionempleados\\frmgestionempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|c:\\users\\icbc\\desktop\\facu\\laboratorio de programaci\u00F3n 1\\sistemagestionempleados\\sistemagestionempleados\\frmbuscarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|solutionrelative:sistemagestionempleados\\frmbuscarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|c:\\users\\icbc\\desktop\\facu\\laboratorio de programaci\u00F3n 1\\sistemagestionempleados\\sistemagestionempleados\\frmlistarempleadosporsueldomayora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|solutionrelative:sistemagestionempleados\\frmlistarempleadosporsueldomayora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|c:\\users\\icbc\\desktop\\facu\\laboratorio de programaci\u00F3n 1\\sistemagestionempleados\\sistemagestionempleados\\frmconsultadatosempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|solutionrelative:sistemagestionempleados\\frmconsultadatosempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|c:\\users\\icbc\\desktop\\facu\\laboratorio de programaci\u00F3n 1\\sistemagestionempleados\\sistemagestionempleados\\frmacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|solutionrelative:sistemagestionempleados\\frmacercade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|c:\\users\\icbc\\desktop\\facu\\laboratorio de programaci\u00F3n 1\\sistemagestionempleados\\sistemagestionempleados\\frmbuscarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|solutionrelative:sistemagestionempleados\\frmbuscarempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|c:\\users\\icbc\\desktop\\facu\\laboratorio de programaci\u00F3n 1\\sistemagestionempleados\\sistemagestionempleados\\frmlistadoempleadosporcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{631E6E4F-9D6D-4BE6-9FA0-1792D457D4FC}|sistemaGestionEmpleados\\sistemaGestionEmpleados.csproj|solutionrelative:sistemagestionempleados\\frmlistadoempleadosporcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmGestionEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmGestionEmpleados.cs",
+              "RelativeDocumentMoniker": "sistemaGestionEmpleados\\frmGestionEmpleados.cs",
+              "ToolTip": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmGestionEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sistemaGestionEmpleados\\frmGestionEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:44:34.803Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBuscarEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmBuscarEmpleado.cs",
+              "RelativeDocumentMoniker": "sistemaGestionEmpleados\\frmBuscarEmpleado.cs",
+              "ToolTip": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmBuscarEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sistemaGestionEmpleados\\frmBuscarEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:31:42.049Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmConsultaDatosEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmConsultaDatosEmpleado.cs",
+              "RelativeDocumentMoniker": "sistemaGestionEmpleados\\frmConsultaDatosEmpleado.cs",
+              "ToolTip": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmConsultaDatosEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sistemaGestionEmpleados\\frmConsultaDatosEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:31:36.126Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmListarEmpleadosPorSueldoMayorA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmListarEmpleadosPorSueldoMayorA.cs",
+              "RelativeDocumentMoniker": "sistemaGestionEmpleados\\frmListarEmpleadosPorSueldoMayorA.cs",
+              "ToolTip": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmListarEmpleadosPorSueldoMayorA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sistemaGestionEmpleados\\frmListarEmpleadosPorSueldoMayorA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:31:16.187Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAcercaDe.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmAcercaDe.cs",
+              "RelativeDocumentMoniker": "sistemaGestionEmpleados\\frmAcercaDe.cs",
+              "ToolTip": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmAcercaDe.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sistemaGestionEmpleados\\frmAcercaDe.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:42:31.453Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBuscarEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmBuscarEmpleado.cs",
+              "RelativeDocumentMoniker": "sistemaGestionEmpleados\\frmBuscarEmpleado.cs",
+              "ToolTip": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmBuscarEmpleado.cs",
+              "RelativeToolTip": "sistemaGestionEmpleados\\frmBuscarEmpleado.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:34:10.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmListadoEmpleadosPorCategoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmListadoEmpleadosPorCategoria.cs",
+              "RelativeDocumentMoniker": "sistemaGestionEmpleados\\frmListadoEmpleadosPorCategoria.cs",
+              "ToolTip": "C:\\Users\\ICBC\\Desktop\\Facu\\Laboratorio de programaci\u00F3n 1\\sistemaGestionEmpleados\\sistemaGestionEmpleados\\frmListadoEmpleadosPorCategoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "sistemaGestionEmpleados\\frmListadoEmpleadosPorCategoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:30:44.088Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
